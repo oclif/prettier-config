@@ -1,0 +1,15 @@
+package-lock.json
+.npmrc
+npm-error.log
+yarn-error.log
+lerna-debug.log
+lib
+*xunit.xml
+*checkstyle.xml
+*unitcoverage
+.nyc_output
+coverage
+docs
+node_modules
+.DS_Store
+.idea
