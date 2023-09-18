@@ -1,6 +1,6 @@
 {
   "name": "@oclif/prettier-config",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "The prettier config for oclif projects",
   "keywords": [
     "oclif",
