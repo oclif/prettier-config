@@ -1,3 +1,12 @@
+## [0.2.1](https://github.com/oclif/prettier-config/compare/0.2.0...0.2.1) (2023-09-28)
+
+
+### Bug Fixes
+
+* remove invalid option ([3186eca](https://github.com/oclif/prettier-config/commit/3186eca25ab7e4562a5b703c8fa457851fa5c55c))
+
+
+
 # [0.2.0](https://github.com/oclif/prettier-config/compare/0.1.1...0.2.0) (2023-09-28)
 
 
