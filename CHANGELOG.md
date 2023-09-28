@@ -1,3 +1,12 @@
+# [0.2.0](https://github.com/oclif/prettier-config/compare/0.1.1...0.2.0) (2023-09-28)
+
+
+### Features
+
+* update settings ([72341b5](https://github.com/oclif/prettier-config/commit/72341b58137327c717aaf8476f01552c8e4d39ca))
+
+
+
 ## [0.1.1](https://github.com/oclif/prettier-config/compare/0.1.0...0.1.1) (2023-09-18)
 
 
