@@ -1,6 +1,6 @@
 # `@oclif/prettier-config`
 
-Oclif prettier configuration for all projects.
+oclif prettier configuration for all projects.
 
 ## Usage
 
