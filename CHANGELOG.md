@@ -1,3 +1,12 @@
+## [0.2.2](https://github.com/oclif/prettier-config/compare/0.2.1...0.2.2) (2026-10-15)
+
+
+### Bug Fixes
+
+* uncapitalize oclif in readme ([7289b36](https://github.com/oclif/prettier-config/commit/7289b366ce267a88e7740710b434a1754b4ee5c6))
+
+
+
 ## [0.2.1](https://github.com/oclif/prettier-config/compare/0.2.0...0.2.1) (2023-09-28)
 
 
